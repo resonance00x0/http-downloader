@@ -3,11 +3,25 @@
 HTTP-Downloader is an modern and advanced downloading tool which helps you to hack your downloads. Unlike traditional download managers, HTTP-Downloader offers you many features like
 
 ### Resume failed downloads
-HTTP-Downloader can request the remaining part of any file to server. By this you can resume failed downloads from even third party apps like chrome
+HTTP-Downloader can request the remaining part of any file to server. By this you can resume failed downloads from even third party apps like chrome. Just click on download link, select your failed file and enjoy your download getting resumed from where it stopped.
+##### How to use
+1. Launch app. Tap on **+** icon on top right. Select **Start new task**
+2. Now select **Resume a failed download** & follow on screen instructions
 
-### Download file as parts
-If you are having limited storage space on your device, you can download the whole file as several small parts. Download a part, move it to any external storage medium and download next part. After completion you can join all parts to get the full file back
-
-### Download using multiple devices
+### Download using multiple devices together
 As HTTP-Downloader can request download from anywhere, it can split your download among your devices. So, if you have 3 Android devices and a 6GB file to download, each device downloads 2GB parts. Since devices can together download files, you can achieve 3X speed for download. After completion of downloads, you can join them from any device (or a windows/linux PC) to get full file
+##### How to use
+1. Launch app. Tap on **+** icon on top right. Select **Start new task**
+2. Now select **Download using 2 (_or more_) devices** & follow on screen instructions
 
+### Forget about storage left on device
+Even if you are low on storage, you can download a small part of your file, which fits your device's storage. Download file, move it to a storage medium, download next part and continue. After completing, you can join all the parts to get your full file.
+
+### Overcome size limits
+Most of external SD-Cards can't handle files of size more than 4GB. So you cannot download a file of size 5GB to an SDCard with even 50GB free. In such cases HTTP-Downloader comes handy as it can automatically split files to several parts while downloading. So you can download the 5GB file as two 2.5GB parts, and later join them from a PC.
+
+### Bypass speed restrictions
+Some web-servers limit speed per connection to limit their network traffic. In such cases, you can simply download file as two or more different parts. Since it makes several parallel connection, your speed hikes multiple times. For servers enforcing speed limit per IP, try **Download using multiple devices together**
+
+### Download directly to cloud storage
+Since HTTP-Downloader uses modern [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider) of Android, users can choose any writable location from document picker UI including their cloud drives. So download will be directly tunnelled to their cloud storage without using any storage space on your device's local storage.
