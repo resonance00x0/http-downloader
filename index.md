@@ -3,7 +3,7 @@
 HTTP-Downloader is an modern and advanced downloading tool which helps you to hack your downloads. Unlike traditional download managers, HTTP-Downloader offers you many features like
 
 ### Resume failed downloads
-HTTP-Downloader can request the remaining part of any file to server. By this you can resume failed downloads from even third party apps like chrome. Just click on download link, select your failed file and enjoy your download getting resumed from where it stopped.
+HTTP-Downloader can request the remaining part of any file to server. By this you can resume failed downloads from even third party apps like Google Chrome, FireFox etc.. Just click on download link, select your failed file and enjoy your download getting resumed from where it stopped. _Note: We don't guarantee 100% compatibility with any third party app even though it works fine in most cases._
 ##### How to use
 1. Launch app. Tap on **+** icon on top right. Select **Start new task**
 2. Now select **Resume a failed download** & follow on screen instructions
