@@ -45,7 +45,6 @@ _Since this feature is an addon and we don't natively support it, it is availabl
 Contact us at: resonance00x0@gmail.com
 
 [Download the app from Google play store](https://play.google.com/store/apps/details?id=resonance.http.httpdownloader)
-
 ![alt text](https://resonance00x0.github.io/http-downloader/images/play_store_link_qr.png "Google Play store link")
 
 See also: 
