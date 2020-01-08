@@ -1,7 +1,7 @@
 # File joiner
 If you split your files while downloading, all those parts need to be joined before you can use the downloaded file. For joining downloaded files, HTTP-Downloader offers you File joiner in [Android](#file-joiner-for-android) (Inbuilt), [Windows](#file-joiner-for-pc), [Linux](#file-joiner-for-pc) and [Mac](#file-joiner-for-pc)
 
-## Additional options for File joiner
+### Additional options for File joiner
 ##### For illustration purpose take following case
 > You had downloaded a `5GB` file as 3 parts with sizes `2.5GB`, `1.5GB` and `1GB`.
 
