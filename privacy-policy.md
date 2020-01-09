@@ -31,3 +31,5 @@ Wherever we collect sensitive information, that information is encrypted and tra
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. We use secure Google Firebase to store your personally identifiable data.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via email (resonance00x0@gmail.com) so that we could take necessary steps to fix it.
+
+[Go back to home](https://resonance00x0.github.io/http-downloader/)
