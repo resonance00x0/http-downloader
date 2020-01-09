@@ -52,3 +52,10 @@ Checking this option will create a blank file of size equivalent to your downloa
 - You are intending to clear HTTP-Downloader's app data without backing up while download is in progress or is paused. It may cause HTTP-Downloader to loose how much data has already been written and it will restart download from beginning.
 - Your download may get interrupted too many times. In that case HTTP-Downloader will use slightly more data than actually required.
 
+See also: 
+- [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
+- [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
+- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
+- [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
+
+[Suggest edits](https://github.com/resonance00x0/http-downloader/)
