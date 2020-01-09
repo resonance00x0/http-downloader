@@ -25,4 +25,4 @@ You will need to find the exact size of files (_in bytes_) to resume a download 
 ![alt text](images/prop_win.png "File size in bytes in Windows")
 
 #### In linux
- - You already know how to find file size in bytes
+ - You already know how to find file size in bytes if you are using linux
