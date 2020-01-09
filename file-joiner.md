@@ -33,3 +33,12 @@ File joiner is inbuilt in HTTP-Downloader for Android. Launch HTTP-Downloader, c
 
 ## File joiner for PC
 Downloads: Windows Linux Mac
+
+See also: 
+- [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
+- [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
+- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
+- [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
+- [Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
+
+[Suggest edits](https://github.com/resonance00x0/http-downloader/)
