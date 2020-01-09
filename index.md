@@ -51,6 +51,5 @@ Contact us at: resonance00x0@gmail.com
 See also: 
 - [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
 - [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
-- [Limitations of HTTP-Downloader](https://resonance00x0.github.io/http-downloader/limitations)
 - [Details of Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
 - [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
