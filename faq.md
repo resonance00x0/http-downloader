@@ -7,21 +7,21 @@ You will need to find the exact size of files (_in bytes_) to resume a download 
 #### In Android (Note that these steps may vary based on apps used)
  - Download & install some geek friendly File Explorer apps
  - Locate your required file
- - Touch & hold and select Properties<br/>
- - Find text indicating file size as bytes
+ - Touch & hold and select Properties
+ - Find text indicating file size as bytes<br/>
 ![alt text](images/prop_android.png "File size in bytes in Android")<br/>
-App used: [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
+**App used:** [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 
 #### In Mac OS
  - Browse to your required file using finder
  - Right click on the file & choose properties
- - Find text indicating file size as bytes
+ - Find text indicating file size as bytes<br/>
 ![alt text](images/mac_prop.png "File size in bytes in Mac")
 
 #### In Windows
  - Browse to your required file using windows file explorer
  - Right click on the file & choose properties
- - Find text indicating file size as bytes
+ - Find text indicating file size as bytes<br/>
 ![alt text](images/prop_win.png "File size in bytes in Windows")
 
 #### In linux
