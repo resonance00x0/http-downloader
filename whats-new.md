@@ -19,3 +19,11 @@ Using previous HTTP-Downloader, users manually needed to specify offset & limit 
 5. **Create empty file before download:** This helps you to avoid storage space issues while downloading.
 6. **Split files & download them together:** Helps you avoid speed limit per connection set by server
 7. **And much more**
+
+See also: 
+- [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
+- [Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
+- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
+- [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
+
+[Suggest edits](https://github.com/resonance00x0/http-downloader/)
