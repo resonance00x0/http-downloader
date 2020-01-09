@@ -26,3 +26,12 @@ You will need to find the exact size of files (_in bytes_) to resume a download 
 
 #### In linux
  - You already know how to find file size in bytes if you are using linux; Just make sure you don't select size on Disk
+
+
+See also: 
+- [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
+- [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
+- [Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
+- [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
+
+[Suggest edits](https://github.com/resonance00x0/http-downloader/)
