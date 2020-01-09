@@ -33,5 +33,6 @@ See also:
 - [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
 - [Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
 - [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
+- [File joiner](https://resonance00x0.github.io/http-downloader/file-joiner)
 
 [Suggest edits](https://github.com/resonance00x0/http-downloader/)
