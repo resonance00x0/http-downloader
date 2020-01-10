@@ -55,7 +55,7 @@ Checking this option will create a blank file of size equivalent to your downloa
 See also: 
 - [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
 - [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
-- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
+- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/faq)
 - [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
 - [File joiner](https://resonance00x0.github.io/http-downloader/file-joiner)
 

@@ -23,7 +23,7 @@ Using previous HTTP-Downloader, users manually needed to specify offset & limit 
 See also: 
 - [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
 - [Advanced mode](https://resonance00x0.github.io/http-downloader/advanced-mode)
-- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/common-errors)
+- [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/faq)
 - [Privacy policy](https://resonance00x0.github.io/http-downloader/privacy-policy)
 - [File joiner](https://resonance00x0.github.io/http-downloader/file-joiner)
 
