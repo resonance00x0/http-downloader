@@ -27,6 +27,11 @@ You will need to find the exact size of files (_in bytes_) to resume a download 
 #### In linux
  - You already know how to find file size in bytes if you are using linux; Just make sure you don't select size on Disk
 
+### Where should I report bugs or give feedbacks?
+Please use **_Report a bug / Suggest a new feature_** option in app **_settings_** for reporting bugs, feedbacks and queries. We will be assisting you within a day (average time of reply: 2 hours) after you successfully report the bug.<br>
+When reporting bugs, please attach full details of the issue including your download link, download location (Internal storage/SD-card), Device model, Method of downloading, app logs, screenshots or screen record videos and every possible detail you could share. This makes debugging easier & ensures your issue to be triaged fast.<br>
+**We will be offering In-app rewards for critical/high-priority bug reports once triaged** (Note that the decision of approving in-app rewards is solely ours)
+
 
 See also: 
 - [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
