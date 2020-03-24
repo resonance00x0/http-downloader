@@ -33,7 +33,7 @@ Some web-servers limit speed per connection to limit their network traffic. In s
 2. Now select **Download as several parts** & follow on screen instructions
 
 ### Continuous re-connection
-Some web-servers provide high speeds at beginning of download and later reduces it heavily. This happens especially with video streaming servers. HTTP-Downloader can continuously re-connect to the server and ask for fresh download periodically. This assures high speed all the time as the connection is renewed frequently (read more [here](https://resonance00x0.github.io/http-downloader/faq#What-is-continuous-reconnect-mode))
+Some web-servers provide high speeds at beginning of download and later reduces it heavily. This happens especially with video streaming servers. HTTP-Downloader can continuously re-connect to the server and ask for fresh download periodically. This assures high speed all the time as the connection is renewed frequently (read more [here](https://resonance00x0.github.io/http-downloader/faq#what-is-continuous-reconnect-mode))
 
 ### Download directly to cloud storage
 Since HTTP-Downloader uses modern [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider) of Android, users can choose any writable location from document picker UI including their cloud drives. So download will be directly tunnelled to their cloud storage without using any storage space on your device's local storage.<br/>
@@ -45,7 +45,7 @@ _Since this feature is an addon and we don't natively support it, it is availabl
 4. Uncheck **Create a blank file first** to avoid double network usage (firstly for making file & then for downloading).
 5. Click on next icon to review & click again to start download.
 
-To improve the app, we need your valuable suggestions and bug-reports. Please let us know if you faced any problem while using our app. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
+To improve the app, we need your valuable suggestions and bug-reports. Please let us know if you faced any problem while using our app. We will be providing free promo codes to activate premium for valid bug reports. [Click here to read more](https://resonance00x0.github.io/http-downloader/report-bugs)
 
 Contact us at: resonance00x0@gmail.com
 
