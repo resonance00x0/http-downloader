@@ -43,6 +43,7 @@ Please use **_Report a bug / Suggest a new feature_** option in app **_settings_
 When reporting bugs, please attach full details of the issue including your download link, download location (Internal storage/SD-card), Device model, Method of downloading, app logs, screenshots or screen record videos and every possible detail you could share. This makes debugging easier & ensures your issue to be triaged fast.<br>
 **We will be offering In-app rewards for critical/high-priority bug reports once triaged** (Note that the decision of approving in-app rewards is solely ours)
 
+Contact us: resonance00x0@gmail.com
 
 See also: 
 - [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
