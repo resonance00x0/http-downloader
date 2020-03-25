@@ -1,4 +1,19 @@
-# Privacy Notice
+# Privacy Notice and Licence Agreement
+
+## Agreement
+HTTP-Downloader is built on intentions to help people. You are allowed to use our app, for the purpose it is designed to be, free of cost (Except for some premium features).
+1. HTTP-Downloader is solely the property of Resonance.
+2. Without written permission, you do not have right to exploit bugs of, re-distribute or reverse engineer HTTP-Downloader. 
+3. Using HTTP-Downloader received from sources other than Google Play store is strictly prohibitted. We won't be responsible for any problems caused to you while using HTTP-Downloader received from sources other than Google play store.
+4. You are not allowed to use HTTP-Downloader as a medium to harm others (for example: stealing credentials).
+5. You are solely responsible for any kind of data leak from HTTP-Downloader app. We are responsible for your data leak from our servers. We expect our users to be aware of basic digital data protection measures.
+6. HTTP-Downloader does not guarantee completely bug free operation. If anything happens to your device or data while using HTTP-Downloader, we won't be responsible for any compensation. If you notice any such bugs, please report it to us as soon as possible so that the issue could be permanently fixed.
+7. The data we collect is anonymous and it can be associated with you only if you provide us the unique App id (see in settings Activity). We are obligated to delete all your data, including your request to delete it, in case you request to us through mail.
+8. You are not allowed to use HTTP-Downloader unless you agree to fully abide all these conditions.
+
+You are free to contact us in case you need any clarification of this agreement through mail (resonance00x0@gmail.com)
+
+## Privacy notice
 This privacy notice discloses the privacy practices for [HTTP-Downloader](https://play.google.com/store/apps/details?id=resonance.http.httpdownloader). This privacy notice applies solely to information collected by this application. It will notify you of the following:
 1. What personally identifiable information is collected from you through the app, how it is used and with whom it may be shared.
 2. What choices are available to you regarding the use of your data.
