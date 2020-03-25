@@ -1,6 +1,14 @@
 # HTTP Downloader FAQ
 This section describes several frequently asked questions and its answers to easily troubleshoot your problem. If you still can't find a solution for your problem, you can always mail us at resonance00x0@gmail.com
 
+### Can't locate files and folders in file picker
+In some devices, Primary storage spaces will be hidden by default. To unhide them follow these steps:
+1. Tap on options (top right), and click on **Show SDCard** or **Show Internal** or anything similar (_varies with device_)<br>
+![alt text](images/show_internal.png "Show internal menu in Android's file picker")<br>
+2. Swipe from left and click on required storage medium<br>
+![alt text](images/select_internal.png "Select required storage medium")<br>
+3. Now choose your required folder/file
+
 ### How to find exact size of failed file in bytes
 You will need to find the exact size of files (_in bytes_) to resume a download failed from another device. Also, if you use [Advanced mode](advanced-mode), you will need to find file size in bytes. See image below<br/>
 ![alt text](images/resume_failed_another_device.png "Start new task -> Resume failed download")
