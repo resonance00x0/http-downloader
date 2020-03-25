@@ -10,7 +10,7 @@ You will need to find the exact size of files (_in bytes_) to resume a download 
  - Touch & hold and select Properties
  - Find text indicating file size as bytes; Make sure you don't select size on Disk<br/>
 ![alt text](images/prop_android.png "File size in bytes in Android")<br/>
-**App used:** [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
+**App used:** [Amaze File Manager](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 
 #### In Mac OS
  - Browse to your required file using finder
