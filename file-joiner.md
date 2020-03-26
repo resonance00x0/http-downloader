@@ -32,7 +32,11 @@ If this is enabled, HTTP-Downloader will delete a file part as soon as it is joi
 File joiner is inbuilt in HTTP-Downloader for Android. Launch HTTP-Downloader, click on **+** icon on top right and choose File joiner. Follow on screen instructions to get all your files joined.
 
 ## File joiner for PC
-Downloads: Windows Linux Mac
+[Download File Joiner from here.](https://resonance00x0.github.io/http-downloader/downloads/file_joiner.jar)<br>
+File joiner is built on Java & it requires Java to be installed on your system to run. Follow [this tutorial](https://java.com/en/download/help/download_options.xml) to setup java on your system.<br>
+Once Java is successfully installed, you can run the File Joiner like any other application by double clicking on the downloaded file.
+If you can't run File Joiner, Open Command prompt (or Terminal on Mac & Linux) and type 
+`java -jar`**_`<drag & drop file_joiner.jar here>`_**. (_Eg: `java -jar Downloads/file_joiner.jar`_) File joiner should start running normally. If you see some error, your java installation wasn't successful. Try re-installing Java
 
 See also: 
 - [About HTTP-Downloader](https://resonance00x0.github.io/http-downloader/)
