@@ -1,5 +1,7 @@
 # Privacy Notice and Licence Agreement
 
+>HTTP-Downloader is currently in beta. Please help us by reporting bugs, if you find any, through Settings -> Report bugs. Critical bug report will be awarded promocodes to enable premium features. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
+
 ## Agreement
 HTTP-Downloader is built on intentions to help people. You are allowed to use our app, for the purpose it is designed to be, free of cost (Except for some premium features).
 1. HTTP-Downloader is solely the property of Resonance.
