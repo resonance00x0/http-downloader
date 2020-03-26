@@ -1,7 +1,9 @@
 # HTTP-Downloader
 
-HTTP-Downloader is the most advanced downloading tool ever built. Unlike traditional download managers, HTTP-Downloader offers you much more features, which are discussed below.
+HTTP-Downloader is the most advanced downloading tool ever built. Unlike traditional download managers, HTTP-Downloader offers you much more features.
+> Note: HTTP-Downloader is currently in beta mode. Please help us by reporting bugs, if you find any, through App's settings -> Report bugs. Critical bug report will be awarded promocodes to enable premium features. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
 
+## HTTP-Downloader Key features
 ### Resume failed downloads
 HTTP-Downloader can request the remaining part of any file from servers. With this, you can resume failed downloads from even third party apps like Google Chrome, FireFox etc.. The failed file can be resumed from where it stopped without wasting even extra 10KB. _Note: We don't guarantee 100% compatibility with any third party app even though it works fine in most cases._
 ##### How to use
