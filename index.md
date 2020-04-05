@@ -1,7 +1,7 @@
 # HTTP-Downloader
 
 HTTP-Downloader is the most advanced downloading tool ever built. Unlike traditional download managers, HTTP-Downloader offers you much more features.
-> Note: HTTP-Downloader is currently in beta mode. Please help us by reporting bugs, if you find any, through App's settings -> Report bugs. Critical bug report will be awarded promocodes to enable premium features. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
+> Note: HTTP-Downloader is currently in beta mode. Please help us by reporting bugs, if you find any, through App's settings -> Report bugs. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
 
 ## HTTP-Downloader Key features
 ### Resume failed downloads
@@ -47,7 +47,7 @@ _Since this feature is an addon and we don't natively support it, it is availabl
 4. Uncheck **Create a blank file first** to avoid double network usage (firstly for making file & then for downloading).
 5. Click on next icon to review & click again to start download.
 
-To improve the app, we need your valuable suggestions and bug-reports. Please let us know if you faced any problem while using our app. We will be providing free promo codes to activate premium for valid bug reports. [Click here to read more](https://resonance00x0.github.io/http-downloader/report-bugs)
+To improve the app, we need your valuable suggestions and bug-reports. Please let us know if you faced any problem while using our app. [Click here to read more](https://resonance00x0.github.io/http-downloader/report-bugs)
 
 Contact us at: resonance00x0@gmail.com
 
