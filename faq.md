@@ -1,7 +1,7 @@
 # HTTP Downloader FAQ
 This section describes several frequently asked questions and its answers to easily troubleshoot your problem. If you still can't find a solution for your problem, you can always mail us at resonance00x0@gmail.com
 
-### Can't locate files and folders in file picker
+### Can't locate files and folders in file picker?
 In some devices, Primary storage spaces will be hidden by default. To unhide them follow these steps:
 1. Tap on options (top right), and click on **Show SDCard** or **Show Internal** or anything similar (_varies with device_)<br>
 ![alt text](images/show_internal.png "Show internal menu in Android's file picker")<br>
@@ -50,6 +50,13 @@ But the increase in speed cannot be guaranteed. If the ping (_time required to i
 Please use **_Report a bug / Suggest a new feature_** option in app **_settings_** for reporting bugs, feedbacks and queries. We will be assisting you within a day (average time of reply: 2 hours) after you successfully report the bug.<br>
 When reporting bugs, please attach full details of the issue including your download link, download location (Internal storage/SD-card), Device model, Method of downloading, app logs, screenshots or screen record videos and every possible detail you could share. This makes debugging easier & ensures your issue to be triaged fast.<br>
 **We will be offering In-app rewards for critical/high-priority bug reports once triaged** (Note that the decision of approving in-app rewards is solely ours)
+
+
+### Is there a desktop alternative for HTTP-Downloader?
+As of now, we don't have a desktop alternative for HTTP-Downloader. But due to heavy support from our Android users, we have decided to build an HTTP-Downloader for Windows desktop. We are planning to make it available in Windows store from next year (mid 2021) onwards. We have devoted a special windows development team for this purpose. Your continuous help and support is heavily influencing our productivity & development speed.
+
+### Is there an iOS alternative for HTTP-Downloader?
+No we don't have an iOS alternative. We don't plan to make one either. Sorry for the inconvenience.
 
 Contact us: resonance00x0@gmail.com
 
