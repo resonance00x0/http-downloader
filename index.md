@@ -1,6 +1,7 @@
 # HTTP-Downloader
 
-HTTP-Downloader is the most advanced downloading tool ever built. Unlike traditional download managers, HTTP-Downloader offers you much more features.
+HTTP-Downloader is the most advanced downloading tool ever built. Unlike traditional download managers, HTTP-Downloader offers you much more features.<br>
+[Click here to install HTTP-Downloader](#downloads)
 > Note: HTTP-Downloader is currently in beta mode. Please help us by reporting bugs, if you find any, through App's settings -> Report bugs. [Read more..](https://resonance00x0.github.io/http-downloader/report-bugs)
 
 ## HTTP-Downloader Key features
@@ -51,7 +52,8 @@ To improve the app, we need your valuable suggestions and bug-reports. Please le
 
 Contact us at: resonance00x0@gmail.com
 
-[Download the app from Google play store](https://play.google.com/store/apps/details?id=resonance.http.httpdownloader)
+#### Downloads
+[Click here to download the app from Google play store](https://play.google.com/store/apps/details?id=resonance.http.httpdownloader)
 
 ![alt text](https://resonance00x0.github.io/http-downloader/images/play_store_link_qr.png "Google Play store link")
 
