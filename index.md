@@ -57,6 +57,11 @@ Contact us at: resonance00x0@gmail.com
 
 ![alt text](https://resonance00x0.github.io/http-downloader/images/play_store_link_qr.png "Google Play store link")
 
+## Credits
+We thank the following sources for providing us free assets to develop HTTP-Downloader
+1. [zxing](https://github.com/zxing/zxing) for QR code scanner engine
+2. QR code icon used in built-in browser is made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com
+
 See also: 
 - [What's new in HTTP-Downloader](https://resonance00x0.github.io/http-downloader/whats-new)
 - [Common errors and FAQ](https://resonance00x0.github.io/http-downloader/faq)
