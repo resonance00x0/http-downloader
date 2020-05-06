@@ -45,6 +45,25 @@ But the increase in speed cannot be guaranteed. If the ping (_time required to i
 
 **Enabling this may not guarantee increase in download speed. This may vary based on several factors as discussed above.**
 
+### How to start download from another browser?
+HTTP-Downloader relies on Android's native WebView for displaying webpages. Since it is not as advanced as modern browsers, the pages may look choppy and some times download may not start. But HTTP-Downloader is heavily extensible. You can start download from third party browsers too (even though it requires some technical expertise). Follow these steps to grab a download from other browsers like Chrome:
+1. Install and configure any network monitoring tool (For example: https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture).
+2. With the network monitor running, go to the website from any browser and start download. Cancel download when it reaches around 200 KB.
+3. Go back to network monitor and identify the network request corresponding to the file you are downloading.
+4. Copy the `URL` and `request headers` for the download.
+5. Now open HTTP-Downloader and navigate to Advanced download mode.
+6. Paste the copied `URL` to the **Download link** field and paste `request headers` to **Headers** field.
+7. Uncheck **Create a blank file first** option (to avoid problems when your download gets failed).
+8.    
+_**If you want to start a fresh download:**_
+- Select an output folder/file and click on proceed button (bottom right) to start download
+
+_**If you want to resume a failed download:**_
+- Click on **Choose file** and select to your failed file.
+- Click on proceed button (bottom right) to start download
+
+**Note:** _If you are doing this to resume an interrupted download from HTTP-Downloader, this will create a new download instance. But don't worry. The file will be resumed from where it stopped (if the server supports it). The previous download task can be safely deleted (without file)._
+
 
 ### Where should I report bugs or give feedbacks?
 Please use **_Report a bug / Suggest a new feature_** option in app **_settings_** for reporting bugs, feedbacks and queries. We will be assisting you within a day (average time of reply: 2 hours) after you successfully report the bug.<br>
